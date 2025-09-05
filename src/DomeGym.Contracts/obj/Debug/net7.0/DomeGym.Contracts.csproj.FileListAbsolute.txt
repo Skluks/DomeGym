@@ -1,0 +1,11 @@
+E:\Code\DomeGym\src\DomeGym.Contracts\bin\Debug\net7.0\DomeGym.Contracts.deps.json
+E:\Code\DomeGym\src\DomeGym.Contracts\bin\Debug\net7.0\DomeGym.Contracts.dll
+E:\Code\DomeGym\src\DomeGym.Contracts\bin\Debug\net7.0\DomeGym.Contracts.pdb
+E:\Code\DomeGym\src\DomeGym.Contracts\obj\Debug\net7.0\DomeGym.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\DomeGym\src\DomeGym.Contracts\obj\Debug\net7.0\DomeGym.Contracts.AssemblyInfoInputs.cache
+E:\Code\DomeGym\src\DomeGym.Contracts\obj\Debug\net7.0\DomeGym.Contracts.AssemblyInfo.cs
+E:\Code\DomeGym\src\DomeGym.Contracts\obj\Debug\net7.0\DomeGym.Contracts.csproj.CoreCompileInputs.cache
+E:\Code\DomeGym\src\DomeGym.Contracts\obj\Debug\net7.0\DomeGym.Contracts.dll
+E:\Code\DomeGym\src\DomeGym.Contracts\obj\Debug\net7.0\refint\DomeGym.Contracts.dll
+E:\Code\DomeGym\src\DomeGym.Contracts\obj\Debug\net7.0\DomeGym.Contracts.pdb
+E:\Code\DomeGym\src\DomeGym.Contracts\obj\Debug\net7.0\ref\DomeGym.Contracts.dll

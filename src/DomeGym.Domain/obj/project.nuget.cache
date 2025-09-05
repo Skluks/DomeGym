@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fPVK/mRzINg=",
+  "success": true,
+  "projectFilePath": "E:\\Code\\DomeGym\\src\\DomeGym.Domain\\DomeGym.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeyhun\\.nuget\\packages\\ardalis.smartenum\\7.0.0\\ardalis.smartenum.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jeyhun\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\Jeyhun\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Jeyhun\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Jeyhun\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jeyhun\\.nuget\\packages\\oneof\\3.0.216\\oneof.3.0.216.nupkg.sha512",
+    "C:\\Users\\Jeyhun\\.nuget\\packages\\throw\\1.3.1\\throw.1.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

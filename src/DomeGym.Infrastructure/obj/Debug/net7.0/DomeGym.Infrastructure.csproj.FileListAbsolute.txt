@@ -1,0 +1,17 @@
+E:\Code\DomeGym\src\DomeGym.Infrastructure\bin\Debug\net7.0\DomeGym.Infrastructure.deps.json
+E:\Code\DomeGym\src\DomeGym.Infrastructure\bin\Debug\net7.0\DomeGym.Infrastructure.dll
+E:\Code\DomeGym\src\DomeGym.Infrastructure\bin\Debug\net7.0\DomeGym.Infrastructure.pdb
+E:\Code\DomeGym\src\DomeGym.Infrastructure\bin\Debug\net7.0\DomeGym.Application.dll
+E:\Code\DomeGym\src\DomeGym.Infrastructure\bin\Debug\net7.0\DomeGym.Domain.dll
+E:\Code\DomeGym\src\DomeGym.Infrastructure\bin\Debug\net7.0\DomeGym.Application.pdb
+E:\Code\DomeGym\src\DomeGym.Infrastructure\bin\Debug\net7.0\DomeGym.Domain.pdb
+E:\Code\DomeGym\src\DomeGym.Infrastructure\obj\Debug\net7.0\DomeGym.Infrastructure.csproj.AssemblyReference.cache
+E:\Code\DomeGym\src\DomeGym.Infrastructure\obj\Debug\net7.0\DomeGym.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\DomeGym\src\DomeGym.Infrastructure\obj\Debug\net7.0\DomeGym.Infrastructure.AssemblyInfoInputs.cache
+E:\Code\DomeGym\src\DomeGym.Infrastructure\obj\Debug\net7.0\DomeGym.Infrastructure.AssemblyInfo.cs
+E:\Code\DomeGym\src\DomeGym.Infrastructure\obj\Debug\net7.0\DomeGym.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Code\DomeGym\src\DomeGym.Infrastructure\obj\Debug\net7.0\DomeGym.Infrastructure.csproj.CopyComplete
+E:\Code\DomeGym\src\DomeGym.Infrastructure\obj\Debug\net7.0\DomeGym.Infrastructure.dll
+E:\Code\DomeGym\src\DomeGym.Infrastructure\obj\Debug\net7.0\refint\DomeGym.Infrastructure.dll
+E:\Code\DomeGym\src\DomeGym.Infrastructure\obj\Debug\net7.0\DomeGym.Infrastructure.pdb
+E:\Code\DomeGym\src\DomeGym.Infrastructure\obj\Debug\net7.0\ref\DomeGym.Infrastructure.dll

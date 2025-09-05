@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "77QqdoNA5UuuI5WrEoBHLQeFh8FvJAS5Od0YP1B5QrE=",
+  "Source": "DomeGym.Api",
+  "BasePath": "_content/DomeGym.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
